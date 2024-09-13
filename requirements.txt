@@ -1,0 +1,15 @@
+Flask==2.0.2
+# gunicorn==23.0.0
+
+# TensorFlow 및 관련 라이브러리
+tensorflow==2.6.0
+keras==2.2.0
+h5py==2.9.0
+numpy==1.14.6
+
+# 이미지 처리 라이브러리
+Pillow==8.3.2
+
+Werkzeug==2.0.3
+
+requests==2.26.0
